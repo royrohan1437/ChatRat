@@ -1,1 +1,1 @@
-# StreamChat
+# ChatRat
